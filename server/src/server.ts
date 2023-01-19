@@ -2,12 +2,6 @@ import fastify from "fastify"
 import cors from "@fastify/cors"
 import { appRoutes } from "./routes"
 
-/**
- * 
- * Lesson 2 -> 43:00
- * 
- * */ 
-
 const app = fastify()
 
 app.register(cors)
