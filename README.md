@@ -13,7 +13,7 @@
   [![MIT License][license-shield]][license-url]
 
   <p align="center">
-    Hab[i] is a habit tracker where you can register your daily habits and check if you are accomplishing them!
+    Hab[i] is a habit tracker where you can register your daily habits and check if you are accomplishing them.
     <br />
     <br />
     <a href="https://github.com/diogodeese/Habi/issues">Report Bug</a>
