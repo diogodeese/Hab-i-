@@ -15,7 +15,7 @@ export function Header() {
       <Dialog.Root>
         <Dialog.Trigger
           type="button"
-          className="border border-violet-500 text-violet-400 rounded-lg font-semibold px-5 py-3 flex items-center gap-3 transition ease-in hover:border-violet-300"
+          className="border border-violet-500 text-violet-400 rounded-lg font-semibold px-5 py-3 flex items-center gap-3 hover:border-violet-300 transition-colors focus:outline-none focus:ring-2 focus:ring-violet-600 focus:ring-offset-2 focus:ring-offset-background"
         >
           <Plus
             size={20}
@@ -32,7 +32,7 @@ export function Header() {
               New Habit
             </Dialog.Title>
 
-            <Dialog.Close className="absolute right-6 top-6 text-zinc-400 hover:text-zinc-200">
+            <Dialog.Close className="absolute right-6 top-6 text-zinc-400 rounded hover:text-zinc-200 focus:outline-none focus:ring-2 focus:ring-violet-600 focus:ring-offset-2 focus:ring-offset-zinc-900">
               <X
                 size={24}
                 aria-label="Close"
