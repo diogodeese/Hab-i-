@@ -1,1 +1,1 @@
-![ERD](https://github.com/diogodeese/Habi/blob/master/server/prisma/ERD.svg)
+![ERD](https://github.com/diogodeese/Habi/blob/main/server/prisma/ERD.svg)
