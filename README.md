@@ -3,9 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="web/src/assets/logo.svg" alt="Logo" width="80" height="80">
-
-  <h3 align="center">Hab[i]</h3>
+  <img src="web/src/assets/logo.svg" alt="Logo" height="80">
   
   <!-- PROJECT SHIELDS -->
   [![Contributors][contributors-shield]][contributors-url]
