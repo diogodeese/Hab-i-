@@ -18,7 +18,7 @@
     <br />
     <a href="https://github.com/diogodeese/Habi/issues">Report Bug</a>
     ·
-    <a href="">Check Hab[i]</a>
+    <a href="https://github.com/diogodeese/Habi">Check Hab[i]</a>
     ·
     <a href="https://github.com/diogodeese/Habi/issues">Request Feature</a>
   </p>
